@@ -1,3 +1,5 @@
+/* Created by GeekStar Codes */
+
 const w = innerWidth,
     h = innerHeight
 const amount = 37
@@ -28,3 +30,5 @@ function draw() {
         ellipse(x, y, v / 50, v / 50)
     }
 }
+
+/* Created by GeekStar Codes */
